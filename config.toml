@@ -16,10 +16,20 @@ Paginate = 4
     weight = 10
     url = "/docs/"
 [[menu.main]]
+    name = "Getting Started"
+    weight = 5
+    url = "/blog/getting-started/"
+[[menu.main]]
     name = "Blog"
-    weight = 20
+    weight = 30
     url = "https://samcogan.com"
 [[menu.main]]
-    name = "Faq"
-    weight = 30
-    url = "/faq/"
+    name = "Donate"
+    weight = 50
+    url = "/blog/donate/"
+[[menu.main]]
+    name = "Github"
+    weight = 40
+    url = "https://github.com/sam-cogan/lambda-toys-api-infrastructure"
+
+
