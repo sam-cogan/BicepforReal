@@ -9,7 +9,7 @@ author = "Sam Cogan"
 
 Welcome to the Bicep for Real course! This course aims to help you learn the Bicep Infrastructure as Code language, but also how this applies to the real world and how to use this language on real-world projects. 
 
-If you just want to dive into the course straight away, head over to [Episode 1](../docs/Episode%201.md).
+If you just want to dive into the course straight away, head over to [Episode 1](/docs/episode-1/).
 
 ## Pre-requisites
 
@@ -17,7 +17,7 @@ This is a beginner's course and does not require previous experience with Bicep 
 
 - Introduction to Bicep: https://youtu.be/R636r-xcCMo
 
-In terms of software needed to follow this course, we introduce most of this in [Episode 1](../docs/Episode%201.md), but you will need:
+In terms of software needed to follow this course, we introduce most of this in [Episode 1](/docs/episode-1/), but you will need:
 
 - A text editor of some sort, we use Visual Studio Code in the examples, and in my view, it is the best editor for working with Bicep
 - A Git repository - this can be from any provider or just a local repository. In the course, we use GitHub, where you can create repositories for Free
@@ -32,7 +32,7 @@ The source code I create for each episode is available in Git in [this repositor
 
 ## The Scenario
 
-The "for Real" part of this course is that we are building our infrastructure to satisfy a real-world type scenario that we will follow along for this project. [Episode 1](../docs/Episode%201.md) covers the scenario in detail, but if you want to read about the scenario or get the details for later review, you can see this below.
+The "for Real" part of this course is that we are building our infrastructure to satisfy a real-world type scenario that we will follow along for this project. [Episode 1](/docs/episode-1/) covers the scenario in detail, but if you want to read about the scenario or get the details for later review, you can see this below.
 
  We are creating infrastructure for a company called Lambda Toys. Their developers are hard at work creating a new container-based application that is going to replace their paper-based store ordering system with a brand-new digital store. We have been tasked with creating a process to deploy the infrastructure needed to support this project and meet its requirements.
 
