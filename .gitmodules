@@ -1,3 +1,6 @@
 [submodule "themes/kube"]
 	path = themes/kube
 	url = https://github.com/jeblister/kube.git
+[submodule "themes/hugo-notice"]
+	path = themes/hugo-notice
+	url = https://github.com/martignoni/hugo-notice.git

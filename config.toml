@@ -1,7 +1,7 @@
 baseURL = "https://bicepforreal.com"
 languageCode = "en-us"
 title = "Bicep for Real"
-theme = "kube"
+theme = ["hugo-notice","kube"]
 description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
 Paginate = 4
 googleAnalytics= "G-JMZ25S5EFM"
