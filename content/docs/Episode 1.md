@@ -14,6 +14,10 @@ Welcome to a brand new series where we take a deeper dive into using Bicep for I
 
 In episode 1 we introduce the scenario we will be working through in the rest of this series and the requirements we need to fulful as we build out our infrastructure as code.
 
+{{% notice info %}}
+You may find that the ```Bicep --version``` command does not work and you need to instead use ```Bicep Version``` command. This seems to vary depending on whether you install bicep via the Azure CLI or standalone.
+{{% /notice %}}
+
 {{< youtube cNE2vZYqWYM >}}
 
 [Next Episode](/docs/episode-2) | [Episode List](/docs)
