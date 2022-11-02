@@ -14,6 +14,13 @@ This week we add the last piece of infrastructure, API management. We tackle bri
 {{< youtube ONOMEsMfERw >}}
 [Next Episode](/docs/episode-8) | [Episode List](/docs)
 
+{{< notice note >}}
+
+**Additional Information**
+
+In part of this episode we set API Management up with a custom domain name and SSL certificate. This is mainly to show  how you can interact with external resources. If you do not have access to a domain or a way to generate SSL certificates this is not a problem, you can skip this part of the episode an leave APIM using the default domain name. This will not impact the rest of the course.
+
+{{< /notice >}}
 
 ## Resources
 
