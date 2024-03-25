@@ -17,7 +17,7 @@ In this week's episode, we start writing some Bicep to create some of the core r
 
 
 {{< youtube bRxtHMoezGI >}}
-[Next Episode](/docs/episode-3) | [Episode List](/docs)
+[Next Episode](/docs/episode-2_5) | [Episode List](/docs)
 
 ## Resources
 
